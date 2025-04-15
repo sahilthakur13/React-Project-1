@@ -1,4 +1,4 @@
-This is a simple React app that demonstrates full CRUD (Create, Read, Update, Delete) functionality using React Router, react-hook-form, and localStorage for product management.
+This is a simple React app that demonstrates full CRUD (Create, Read, Update/Edit, Delete) functionality using React Router, react-hook-form, and localStorage for product management.
 
 📦 Products are stored in the browser's localStorage
 
